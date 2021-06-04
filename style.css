@@ -1,0 +1,11 @@
+.nav{
+    background-color: #BBDCEE !important;
+    min-height: fit-content !important;min-width: fit-content !important;
+}
+.footer{
+    background-color: #BBDCEE !important;
+    min-height: fit-content !important;
+}
+textholder{
+    padding:10px !important;
+}
