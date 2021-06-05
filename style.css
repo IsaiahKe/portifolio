@@ -7,5 +7,5 @@
     min-height: fit-content !important;
 }
 textholder{
-    padding:10px !important;
+    padding:10px !important;min-width: fit-content !important;
 }
