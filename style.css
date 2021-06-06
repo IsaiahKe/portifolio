@@ -2,6 +2,9 @@
     background-color: #BBDCEE !important;
     min-height: fit-content !important;min-width: fit-content !important;
 }
+.adholder{
+    font-style: italic !important;
+}
 .wcontrol{
     min-width:fit-content !important;
 }
