@@ -13,8 +13,7 @@ To use the repository:
     4 *Done ):
 
 ## View portfolio
-
-    [view sitw](https://github.com/IsaiahKe/portifolio/index.html)
+[View site](https://github.com/IsaiahKe/portifolio/index.html)
 
 ## Copyright  & License
 
