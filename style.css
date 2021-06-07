@@ -24,3 +24,13 @@ min-width: fit-content;
 .fcontent{
     float:left;
 }
+.header-color{
+    background-color: #BBDCEE !important;
+}
+.mtop{
+    margin-top: 10px !important;
+}
+
+.linkdec{
+    cursor:pointer;text-decoration: none !important;
+}
