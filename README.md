@@ -1,4 +1,4 @@
-# My Portifolio
+# My Portfolio
 
 ## Project description
 This project shows my portfolio as a software developer.
@@ -13,7 +13,8 @@ To use the repository:
     4 *Done ):
 
 ## View portfolio
-    [View](https://github.com/IsaiahKe/portifolio/index.html)
+
+    [view sitw](https://github.com/IsaiahKe/portifolio/index.html)
 
 ## Copyright  & License
 
