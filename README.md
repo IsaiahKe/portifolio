@@ -1,4 +1,4 @@
-# My Portifolio
+# My Portfolio
 
 ## Project description
 This project shows my portfolio as a software developer.
@@ -12,7 +12,7 @@ To use the repository:
     -3.Locate the index.html file and open with your favorite browser
     -4.Done ):
 ## View portfolio
-    [View](https://github.com/IsaiahKe/portifolio/index.html)
+[View site](https://github.com/IsaiahKe/portifolio/index.html)
 
 ## Copyright  & License
 ### Copyright
