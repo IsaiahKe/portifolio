@@ -7,12 +7,12 @@ I have highlighted my hobbies and the contriution have made to the society at la
 
 ## Project  installation
 To use the repository:
-    1.Download as zip folder/ Import
-    2.Unzip the contents of the folder
-    3.Locate the index.html file and open with your favorite browser
-    4.Done ):
+    1.Download as zip folder/ Import<br/>
+    2.Unzip the contents of the folder<r/>
+    3.Locate the index.html file and open with your favorite browser<br/>
+    4.Done ):<br/>
 ## View portfolio
-[View site](https://github.com/IsaiahKe/portifolio/index.html)
+[View site](https://isaiahke.github.io/portifolio/)
 
 ## Copyright  & License
 ### Copyright
