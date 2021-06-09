@@ -2,8 +2,8 @@
 
 ## Project description
 This project shows my portfolio as a software developer.
-It has the languages that i have leant and i can work with.
-I have highlighted my hobbies and the contriution have made to the society at large
+It has the languages that I have leant and I can work with.
+I have highlighted my hobbies and the tasks and projects that I have done and credited to me
 
 ## Project  installation
 To use the repository:<br/>
